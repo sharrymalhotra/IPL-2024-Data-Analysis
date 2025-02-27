@@ -1,5 +1,6 @@
 # IPL-2024-Data-Analysis
 The objective of this project is to create an interactive platform that centralizes and visualizes T20 cricket match data for the IPL 2024 season. By integrating the Cricbuzz API for data retrieval, the platform aims to provide accurate, real-time insights into team performances, player statistics, and match trends. 
+![image alt](https://github.com/sharrymalhotra/IPL-2024-Data-Analysis/blob/main/Screenshot%202025-02-24%20185046.png?raw=true)
 # Key Features: 
 •Data Integration: Fetch historical match data using the Cricbuzz API.   
 •Match Insights: Display key details such as match results, team performances, player 
