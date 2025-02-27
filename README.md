@@ -15,4 +15,4 @@ Provide visualizations such as pie charts, slicing, tables.
 •Data Security: Ensure API data integrity and implement role-based access controls for data 
 usage. 
 
-![image alt](https://github.com/sharrymalhotra/IPL-2024-Data-Analysis/blob/main/Screenshot%202025-02-24%20185046.png?raw=true)
+![image alt](https://github.com/sharrymalhotra/IPL-2024-Data-Analysis/blob/main/Screenshot%202025-02-24%20185102.png?raw=true)
